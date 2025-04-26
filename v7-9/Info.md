@@ -1,3 +1,5 @@
+Chapter - 4
+
 Ownership - set of rules to govern how a Rust program manages memory, checked by compiler, which enforces borrowing and ownership principles and ensures safety without needing a garbage collector.
 
 These principles help prevent data races and ensure that references do not outlive the data they point to, leading to more predictable and efficient memory management.
